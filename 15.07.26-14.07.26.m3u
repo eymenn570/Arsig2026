@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/eymenn570/iptv-epg-new-test-/0cece27f5c178e67809af8034da01a394c71c8c0/uy.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/eymenn570/iptv-epg-new-test-/refs/heads/main/mac.xml.gz"
 #EXTINF:-1 tvg-id="belNsport.tr" tvg-name="belN Sport" group-title="belN Sports Maçlar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports.png", belN Sport  
 https://dt-vod-beinsports.akamaized.net/2/4a/5896/ligtvcomtr_tauri_ozt_20252026_34_fb_eyup_34h_17may_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
 #EXTINF:-1 tvg-id="belNsport2.tr" tvg-name="belN Sport" group-title="belN Sports Maçlar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports.png", belN Sport  
