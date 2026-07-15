@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="belNsport.tr" tvg-name="belN Sport" group-title="belN Sports Maçlar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports.png", belN Sport  
+https://dt-vod-beinsports.akamaized.net/2/4a/5896/ligtvcomtr_tauri_ozt_20252026_34_fb_eyup_34h_17may_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
+#EXTINF:-1 tvg-id="belNsport2.tr" tvg-name="belN Sport" group-title="belN Sports Maçlar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports.png", belN Sport  
+https://dt-vod-beinsports.akamaized.net/0/55/39c0/ligtvcomtr_tauri_ozt_20252026_34_antalya_kocaeli_17may_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
+#EXTINF:-1 tvg-id="belNsport3.tr" tvg-name="belN Sport" group-title="belN Sports Maçlar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports.png", belN Sport 
+https://dt-vod-beinsports.akamaized.net/9/3f/be1d/ligtvcomtr_tauri_ozt_20252026_34_ant_bas_34h_16mayis_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
+#EXTINF:-1 tvg-id="belNsport4.tr" tvg-name="belN Sport" group-title="belN Sports Maçlar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports.png", belN Sport  
+https://dt-vod-beinsports.akamaized.net/4/8c/df18/ligtvcomtr_tauri_ozt_20252026_11_konya_sams_11h_2kas_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
+#EXTINF:-1 tvg-id="Paribucineverse.tr" tvg-name="Paribu Cineverse" group-title="Paribu Cineverse Filmler" tvg-logo="https://akillifabrikalar.com.tr/wp-content/uploads/2022/11/1667372063_Paribu_Cineverse.png", Paribu Cineverse 
+https://s27.pixypost.art/mp/ITuyYyA1pTIlYx1upzyiYxquoTS4rF5Ao3McMF4lZQV2YyqSDv1RGP4kZQtjpP5RIHSZYatlAwDgFREAd0zxpTy4rKOip3DhLKW0s0xi27vr1
+#EXTINF:-1 tvg-id="Paribucineverse2.tr" tvg-name="Paribu Cineverse" group-title="Paribu Cineverse Filmler" tvg-logo="https://akillifabrikalar.com.tr/wp-content/uploads/2022/11/1667372063_Paribu_Cineverse.png, Paribu Cineverse 
+https://s11.imglink.info/m9/H3Eupv5KLKWmYyEbMF5QoT9hMF5KLKWmYwVjZQthDzk1pzS5YwRjBQOjYxEIDHjmpjd0zxnJ1aoTyhnl5cozMis0xi11vr1
+#EXTINF:-1 tvg-id="Paribucineverse3.tr" tvg-name="Paribu Cineverse" group-title="Paribu Cineverse Filmler" tvg-logo="https://akillifabrikalar.com.tr/wp-content/uploads/2022/11/1667372063_Paribu_Cineverse.png", Paribu Cineverse 
+https://s9.photogrids.site/m1/H2ywLJfhDaIzMF4lZQV1ZwVhZGN4ZUNhI2IvHzyjd0zxpTuiqT9apzyxpl5mnKEys0xi9vr1
+#EXTINF:-1 tvg-id="Paribucineverse4.tr" tvg-name="Paribu Cineverse" group-title="Paribu Cineverse Filmler" tvg-logo="https://akillifabrikalar.com.tr/wp-content/uploads/2022/11/1667372063_Paribu_Cineverse.png", Paribu Cineverse 
+https://s13.imagescdns.pics/my/GJSwMKWuL2xhJKI6M2IwoTIlYxW1rKIeYxqip3EypzxhZwNlZP5KEHVgERjhZGN4ZUNd0zxnJ1uM2ImL2Ehpl5jnJAms0xi13vr1
+#EXTINF:-1 tvg-id="AppleMusic.tr" tvg-name="Apple Music" group-title="Apple Music Müzikler" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTloLwJyvA3K8eFt-91fBOwFdJW2assiWSKio7UTkZQV2KmmtkzRdEkAIE&s=10", Apple Music 
+https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/d9/59/45d959e6-f9ab-d7c5-1e33-7489ee1d3a88/mzaf_2952255833839043671.plus.aac.p.m4a
+#EXTINF:-1 tvg-id="AppleMusic2.tr" tvg-name="Apple Music" group-title="Apple Music Müzikler" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTloLwJyvA3K8eFt-91fBOwFdJW2assiWSKio7UTkZQV2KmmtkzRdEkAIE&s=10", Apple Music 
+https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/db/aa/cedbaaa7-d9fa-6f9e-0c3c-c6679f5447f6/mzaf_9325358113234308932.plus.aac.ep.m4a
+#EXTINF:-1 tvg-id="AppleMusic3.tr" tvg-name="Apple Music" group-title="Apple Music Müzikler" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTloLwJyvA3K8eFt-91fBOwFdJW2assiWSKio7UTkZQV2KmmtkzRdEkAIE&s=10", Apple Music 
+https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/db/aa/cedbaaa7-d9fa-6f9e-0c3c-c6679f5447f6/mzaf_9325358113234308932.plus.aac.ep.m4a
+#EXTINF:-1 tvg-id="canliradyodinle.tr" tvg-name="canliradyodinle.fm" group-title="canliradyodinle.fm" tvg-logo="https://www.canliradyodinle.fm/wp-content/themes/canliradyo/static/images/radyo-dinle-logo.png", canliradyodinle.fm 
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 tvg-id="canliradyodinle2.tr" tvg-name="canliradyodinle.fm" group-title="canliradyodinle.fm" tvg-logo="https://www.canliradyodinle.fm/wp-content/themes/canliradyo/static/images/radyo-dinle-logo.png", canliradyodinle.fm
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="tivibu.tr" tvg-name="tivibu" group-title="tivibu Kanallar" tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.turktelekom.kumandacep/bc427bfa-fcc8-11e6-9f32-5fa38aa6c90a/128x128", tivibu
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="tivibu2.tr" tvg-name="tivibu" group-title="tivibu Kanallar" tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.turktelekom.kumandacep/bc427bfa-fcc8-11e6-9f32-5fa38aa6c90a/128x128", tivibu 
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-id="tivibu3.tr" tvg-name="tivibu" group-title="tivibu Kanallar" tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.turktelekom.kumandacep/bc427bfa-fcc8-11e6-9f32-5fa38aa6c90a/128x128", tivibu 
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/VaaoWlp0RpIMGozlxy6kug9olhGUz3wO7EouMXiTfBDpjw7H03VjiN-daMS1qqcLENTHKHG-3nOuEbipUOZ3Qg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/playlist_16893501916699936863.m3u8?type=replay
+#EXTINF:-1 tvg-id="tivibu4.tr" tvg-name="tivibu" group-title="tivibu Kanallar" tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.turktelekom.kumandacep/bc427bfa-fcc8-11e6-9f32-5fa38aa6c90a/128x128", tivibu 
+https://multilandia.ru/upload/video-files/umka_left_eng.mp4
+#EXTINF:-1 tvg-id="Turksat.tr" tvg-name="Türksat" group-title="Türksat Kanallar" tvg-logo="https://www.turksat.com.tr/static/docs/turksat_logotip_cmyk-01.png", Türksat
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="Turksat2.tr" tvg-name="Türksat" group-title="Türksat Kanallar" tvg-logo="https://www.turksat.com.tr/static/docs/turksat_logotip_cmyk-01.png", Türksat
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="Turksat3.tr" tvg-name="Türksat" group-title="Türksat Kanallar" tvg-logo="https://www.turksat.com.tr/static/docs/turksat_logotip_cmyk-01.png", Türksat
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="Turksat4.tr" tvg-name="Türksat" group-title="Türksat Kanallar" tvg-logo="https://www.turksat.com.tr/static/docs/turksat_logotip_cmyk-01.png", Türksat
+https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="Turksat5.tr" tvg-name="Türksat" group-title="Türksat Kanallar" tvg-logo="https://www.turksat.com.tr/static/docs/turksat_logotip_cmyk-01.png", Türksat
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="CGVMarsDagıtım.tr" tvg-name="CGV Mars Dağıtım" group-title="CGV Mars Dağıtım Filmler" tvg-logo="https://cdn-web.marsgate.tr/Assets/img/icons/cgv_cinema_club/cgv_cinema_club_2x.svg", CGV Mars Dağıtım 
+https://vd423.okcdn.ru/expires/1784197579463/clientType/0/srcIp/178.244.205.147/type/2/mid/5727845091855/id/4701454797327/ms/178.237.23.39/zs/65/srcAg/CHROME_ANDROID_TABLET/urls/185.180.203.46/oq/0/pr/10/ct/29/sig/cO7vh1U4n-8/ondemand/dash4_4701454797327.CI-UsPHZpgFAj66l-ZkRUAoNEySaBeMKPQ.mpd
+#EXTINF:-1 tvg-id="CGVMarsDagıtım2.tr" tvg-name="CGV Mars Dağıtım" group-title="CGV Mars Dağıtım Filmler" tvg-logo="https://cdn-web.marsgate.tr/Assets/img/icons/cgv_cinema_club/cgv_cinema_club_2x.svg", CGV Mars Dağıtım
+https://s19.pixtures.art/mu/G2MfqF5Vo2AuozyhYyAcMaWyp2xhZv4lZQR2YyqSDv1RGP4kZQtjpP54ZwL0YHuRGDd0zxpTy4qUIlMKZhLKW0s0xi19vr1
+#EXTINF:-1 tvg-id="CGVMarsDagıtım3.tr" tvg-name="CGV Mars Dağıtım" group-title="CGV Mars Dağıtım Filmler" tvg-logo="https://cdn-web.marsgate.tr/Assets/img/icons/cgv_cinema_club/cgv_cinema_club_2x.svg", CGV Mars Dağıtım 
+https://watch.trplayer.com/stream/bTN1OC8zNi80YTBkNjhiNTA4ZjM4ZDQ0ODBlYzU5YTU0YWUxMTZiYS8xMDgwcC8xMDgwcC5tM3U4P2lkPTQzNzIw
+#EXTINF:-1 tvg-id="Dsmart.tr" tvg-name="D-Smart" group-title="D-Smart" tvg-logo="https://image.pngaaa.com/520/3716520-small.png", D-Smart 
+https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
+#EXTINF:-1 tvg-id="Dsmart2.tr" tvg-name="D-Smart" group-title="D-Smart" tvg-logo="https://image.pngaaa.com/520/3716520-small.png", D-Smart
+http://193.239.186.231/FILMBOX/index.m3u8
